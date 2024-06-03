@@ -943,14 +943,14 @@ textarea {
 	}
 
 	.about h2 {
-		margin-top: 356px;
+		top: 356px!important;
 		left: 144px;
 		font-size: 23px;
 	}
 
 	.about p {
 		font-size: 17px;
-		top: 390px;
+		top: 390px!important;
 		left: 89px;
 	}
 
