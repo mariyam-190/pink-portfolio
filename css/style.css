@@ -1771,7 +1771,7 @@ textarea {
 
 	.girl {
 		margin-top: 191px;
-		right: 34px;
+		right: -10px;
 	}
 
 	.desk {
@@ -1779,15 +1779,15 @@ textarea {
 	}
 
 	.lamp {
-		right: 268px;
+		right: 233px;
 	}
 
 	.pc {
-		right: 107px;
+		right: 77px;
 	}
 
 	.deco {
-		right: 53px;
+		right: 23px;
 	}
 
 	.Projects {
