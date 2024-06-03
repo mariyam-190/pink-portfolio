@@ -1746,17 +1746,18 @@ textarea {
 
 	.logo {
 		top: 200px;
-		left: 32%;
+		left: 36%;
 	}
 
 	.about h2 {
 		left: 140px;
 		font-size: 24px;
+		top:100px;
 	}
 
 	.about p {
 		font-size: 22px;
-		top: 356px;
+		top: 396px;
 		left: 104px;
 	}
 
