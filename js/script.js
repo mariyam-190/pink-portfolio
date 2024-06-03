@@ -2,7 +2,7 @@
 This function typing effects
 */
 
-var frontText = 'I would describe mySelf as knowledgeable, Industrious , resilient and someone who takes Pride in their work , I have serious Passion for programming also I am a very Good Self Learner , I have Good experience in Web , IOS App Development, also I have a great interest in learning artificial intelligence, I like staying connected with people to learn and discover new things';
+var frontText = 'Hello, I am a Full-Stack Developer';
 
 
 var i = 0;
